@@ -58,4 +58,3 @@ public class Crypto {
         this.quantity = quantity;
     }
 }
-
